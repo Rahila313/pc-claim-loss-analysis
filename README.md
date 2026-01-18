@@ -38,3 +38,17 @@ From a portfolio risk management perspective, the elevated Fire and Water loss s
 - Additional uncontrolled rating variables may differ between states
 
 These results should be interpreted as directional insights rather than production-ready pricing factors.
+
+---
+
+## Statistical Test Screenshots
+
+The following screenshots provide visual evidence of the statistical analyses
+(t-tests and ANOVA) used to support the findings in this project.
+
+### t-test Results
+![t-test Results](images/t_test_results.png)
+
+### ANOVA Results
+![ANOVA Results](images/anova_results.png)
+
